@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\TodoApi\\Server\\",
+  "WorkspaceRootPath": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\MinimalApi\\Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19285C0B-D632-4520-A477-588483C13F80}|TodoApi.csproj|d:\\handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\todoapi\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19285C0B-D632-4520-A477-588483C13F80}|TodoApi.csproj|d:\\handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\minimalapi\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19285C0B-D632-4520-A477-588483C13F80}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{19285C0B-D632-4520-A477-588483C13F80}|TodoApi.csproj|d:\\handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\todoapi\\server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{19285C0B-D632-4520-A477-588483C13F80}|TodoApi.csproj|D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\MinimalApi\\Server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{19285C0B-D632-4520-A477-588483C13F80}|TodoApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\TodoApi\\Server\\Program.cs",
+              "DocumentMoniker": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\MinimalApi\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\TodoApi\\Server\\Program.cs",
+              "ToolTip": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\MinimalApi\\Server\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFYAAAAwAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T20:58:36.138Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\TodoApi\\Server\\Dockerfile",
+              "DocumentMoniker": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\MinimalApi\\Server\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\TodoApi\\Server\\Dockerfile",
+              "ToolTip": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\MinimalApi\\Server\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",

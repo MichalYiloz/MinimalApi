@@ -31,7 +31,7 @@ var app = builder.Build();
 //}
 
 //הצגת כל המשימות
-app.MapGet("/", async (ToDoDbContext db) =>
+app.MapGet("/all", async (ToDoDbContext db) =>
 {
     var data = await db.Items.ToListAsync();
     return data;
@@ -84,7 +84,6 @@ app.MapControllers();
 
 app.UseCors("AllowOrigin");
 
-// app.MapGet("/", () => "server API is running!");
-
+app.MapGet("/", () => "server API is running!");
 
 app.Run();
