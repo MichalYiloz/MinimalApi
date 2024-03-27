@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\MinimalApi\\Server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{19285C0B-D632-4520-A477-588483C13F80}|TodoApi.csproj|d:\\handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\minimalapi\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19285C0B-D632-4520-A477-588483C13F80}|TodoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{19285C0B-D632-4520-A477-588483C13F80}|TodoApi.csproj|d:\\handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\minimalapi\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19285C0B-D632-4520-A477-588483C13F80}|TodoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\MinimalApi\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\MinimalApi\\Server\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T13:00:18.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\MinimalApi\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Handeshaim\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 4\\MinimalApi\\Server\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-18T20:25:07.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T20:25:07.248Z"
             }
           ]
         }
